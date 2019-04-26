@@ -1,3 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 1.0.0
+! Title: My Custom List
+! Last modified: 27 April 2019 1:48 WIB
+! Expires: 1 days (update frequency)
+! Homepage: -
+! Licence: -
+
+
 indoxxi.cx#?##home-bnner2-content
 indoxxi.cx#?##home-bnner-content
 indoxxi.cx#?##player-side-right
